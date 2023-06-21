@@ -74,6 +74,5 @@ Step 5: Khi quá trình thiết lập này hoàn tất, giờ đây chúng ta c�
 ethermintd start --rollkit.aggregator true --rollkit.da_layer celestia --rollkit.da_config='{"base_url":"http://38.242.249.168:26658","timeout":60000000000,"gas_limit":6000000,"fee":6000}' --rollkit.namespace_id $NAMESPACE_ID --rollkit.da_start_height $DA_BLOCK_HEIGHT
 Note: bạn cần thay đổi IP của bạn
 
-Kết quả: ![image](https://github.com/binhkk91/binhkk/assets/136416307/1767f89d-e46a-436b-9f17-55a8b3903c6c)
-
+Kết quả: 
 ![image](https://github.com/binhkk91/binhkk/assets/136416307/3b982981-bb49-40c6-9c4e-ecdb1062eab7)
